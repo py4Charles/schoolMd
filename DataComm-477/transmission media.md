@@ -57,3 +57,5 @@
 - Upon receipt of a clock pulse, the receiver reads the data channel and latches the bit value found on the channel at that moment.
 - The data channel is not read again until the next clock pulse arrives.
 - Because the transmitter originates both the data and the timing pulses, the receiver reads the data channel only when told to do so by the transmitter (via the clock pulse), and synchronization is guaranteed.
+
+stopped at slide 25
