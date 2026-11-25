@@ -208,3 +208,5 @@ There are three main types of radio frequency propagation:
 - User handsets require less power than traditional cellular phones.
 - The handsets are expected to be cheaper than cellular phones.
 - The system provides **100% global coverage** of the Earth.
+
+continue slide 127
